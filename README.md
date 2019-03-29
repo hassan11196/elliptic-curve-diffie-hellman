@@ -1,4 +1,8 @@
-diffie-hellman
+elliptic-curve-diffie-hellman
 ==============
+First install requirements using 
+pip install -r requirements.txt
 
-Python code for the post ["Elliptic Curve Diffie-Hellman"](http://jeremykun.com/2014/03/31/elliptic-curve-diffie-hellman/)
+Then run using 
+python diffie-hellman.py
+
